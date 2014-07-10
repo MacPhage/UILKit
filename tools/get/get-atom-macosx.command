@@ -1,0 +1,3 @@
+echo Downloading Atom text editor for Mac OS X to the Desktop...
+echo This may take a while
+curl -o ~/Desktop/atom-mac.zip 'http://ruthlessphysics.com/dl/uil/atom-mac.zip'
